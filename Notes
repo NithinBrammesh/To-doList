@@ -1,0 +1,5 @@
+Dockefile 
+ http server
+ copy your html and css files
+
+ run docker and open url in browser and validate
